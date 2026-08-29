@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.adicm.twa",
+        "sha256_cert_fingerprints": ["D4:FB:4E:33:0B:78:F0:BA:F6:9B:ED:85:E4:2D:25:F8:07:3E:8F:66:4B:69:CB:61:8E:56:E0:A7:C0:F1:B1:E6"]
+      }
+    }]
