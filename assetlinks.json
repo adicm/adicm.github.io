@@ -1,8 +1,0 @@
-[{
-      "relation": ["delegate_permission/common.handle_all_urls"],
-      "target": {
-        "namespace": "android_app",
-        "package_name": "com.zxproductions.invimaze",
-        "sha256_cert_fingerprints": ["F4:C4:9E:D5:A9:FB:C1:51:84:98:5A:71:0A:D7:D6:3B:17:A8:27:84:EF:C6:21:31:B6:1F:F1:77:2E:23:92:75"]
-      }
-    }]
