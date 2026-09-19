@@ -3,6 +3,6 @@
       "target": {
         "namespace": "android_app",
         "package_name": "com.zxproductions.invimaze",
-        "sha256_cert_fingerprints": ["31:8B:D5:F7:44:4C:BC:8A:C8:21:D7:F1:FF:E3:AB:1F:06:67:15:ED:DE:7E:ED:8B:99:A6:D9:07:BC:D4:06:37"]
+        "sha256_cert_fingerprints": ["84:72:34:4F:35:8B:AD:5E:E9:75:5E:1D:45:A5:5E:00:D1:85:0F:32:3E:B7:B8:F8:61:E9:11:8D:6B:BF:5F:1B"]
       }
     }]
